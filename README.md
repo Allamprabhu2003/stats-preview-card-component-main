@@ -65,3 +65,4 @@ img{
 
 - Frontend Mentor - [@Allamprabhu](https://www.frontendmentor.io/profile/Allamprabhu2003)
 - Email - [@Allamprabhu](allamprabhuhiremath2003@gmail.com)
+- Linkedin - [Allamaprabhu](https://www.linkedin.com/in/allamprabhu-hiremath-a7a5371a5)
